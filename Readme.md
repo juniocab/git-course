@@ -1,5 +1,3 @@
-#! Hello World
+Git course
 
-Esta foi uma alteração de status!!
-
-E aqui fiz outra alteração
+Este é um arquivo de repositório para testar como o git funciona
